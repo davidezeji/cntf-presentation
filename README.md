@@ -1,0 +1,2 @@
+# CNTF - Project Overview 
+This repository contains a slideshow presentation that outlines the overarching objectives of the Containerized Network Testing Framework (CNTF) project. To gain a comprehensive understanding of the project's goals, individuals are encouraged to examine the slides within the ***'cntf-presentation-github.pdf'*** file available in this repository. Please review this slideshow before exploring the contents of other CNTF repositories, as it will help create a clearer picture of each repository’s purpose. Happy learning!
